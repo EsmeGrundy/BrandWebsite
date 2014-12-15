@@ -1,0 +1,12 @@
+body {
+    padding-top: 0px;      /*makes background white and sets body slightyly below navbar*/
+    background-color: black;
+    position: relative;
+}
+
+.row{
+    padding-left: 0px;
+    margin-left: 0px;
+    border-bottom: 10px;
+    border-bottom-color: #ffff00;
+}
