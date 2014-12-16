@@ -1,5 +1,5 @@
 body {
-    padding-top: 0px;      /*makes background white and sets body slightyly below navbar*/
+    padding-top: 0px;
     background-color: black;
     position: relative;
 }
@@ -9,4 +9,17 @@ body {
     margin-left: 0px;
     border-bottom: 10px;
     border-bottom-color: #ffff00;
+}
+
+h2{
+    color: yellow;
+}
+
+h4{
+    color: white;
+}
+
+.logo{
+    border-bottom: 30px;
+    border-bottom-color: yellow;
 }
